@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Network
 
-I'm a **self-taught hardware technician**, **server host**, and **Linux enthusiast** who loves building things, breaking them (on purpose), and learning by doing.
+I'm a **self-taught hardware technician**, **server host**, and **Linux enthusiast** who loves building things, breaking them (on purpose.. ok fine not always on purpose), and learning by doing.
 
-I run **bare metal servers** powered by Linux, manage game infrastructure with **Pterodactyl**, and host **dedicated game servers** for myself, friends, and anyone else who wants to hop in.
+I run **bare metal servers**, 2 of them, powered by Linux, manage game infrastructure with **Pterodactyl**, and host **dedicated game servers** for myself, friends, and anyone else who wants to hop in.
 
 ---
 
@@ -17,7 +17,7 @@ I run **bare metal servers** powered by Linux, manage game infrastructure with *
 ---
 
 ## 🚧 Currently Learning
-- 🔧 **Modding Minecraft Java Edition** (Forge/Fabric & custom tools)
+- 🔧 **Modding Minecraft Java Edition** (Forge/Fabric, custom tools and Java in general)
 - 🧠 Improving my skills in **Linux automation** and scripting
 - 🎮 Diving deeper into **game development pipelines** and engine integration
 
@@ -30,4 +30,4 @@ I'm always down to:
 - Help with Linux, Docker, or hosting tools
 - Share Minecraft modding tips or server configs
 
-> _"If it ain’t broke, tweak it anyway."_ 😄
+> _"If it ain’t broke, tweak it anyway. If it breaks, well we can only learn from it."_ 😄
